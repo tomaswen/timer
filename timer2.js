@@ -18,4 +18,3 @@ stdin.on('data', (key) => {
   }
 });
 
-console.log('after callback');
